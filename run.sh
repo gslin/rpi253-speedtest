@@ -5,7 +5,7 @@ cd "$(dirname $0)"
 
 main() {
     local D
-    local D
+    local F
     local R
 
     D=$(date +%Y-%m)
